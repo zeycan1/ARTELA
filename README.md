@@ -122,14 +122,14 @@ sudo journalctl -fu artelad -o cat
 ```
 
 ### Cüzdan olusturma
-
+```
 artelad keys add cüzdan-adı
-
+```
 ### Not: faucet almak için cüzdan olusturduktan sonra altaki kodla adresinizi öğrenin. Address (EIP-55) kısmındaki 0X ile başalayan adresile faucetten tokenlerinizi isteyin. 6 saatte bir token isteyebilirsiniz. 
 ```
 artelad debug addr art ile başlayan cüzdan adresiniz
 
-
+```
 ### Validator olusturma
 Not: Faucetten token aldıktan sonra validatör oluşturabilirsiniz. moniker ve cüzdan adınızı yazınız
 ```
