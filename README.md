@@ -2,8 +2,7 @@
 
 
 ## Linkler:
- * [Topluluk kanalımız](https://t.me/corenodechat)
- * [Topluluk Twitter](https://twitter.com/corenodeHQ)
+ 
  * [Artela Resmi Websitesi](https://artela.network/)
  * [Artela Resmi Twitter](https://twitter.com/Artela_Network)
  * [Artela Resmi Discord](https://discord.gg/TzmnmuCU)
