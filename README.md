@@ -11,14 +11,7 @@
  * [Artela EXPLORER](https://test.explorer.ist/artela/staking)
 
 
-Not: teşvik bilinmiyor...
-
-### Not: faucet almak için cüzdan olusturduktan sonra altaki kodla adresinizi öğrenin Address (EIP-55): adresiniz burda yazıor
 ```
-artelad debug addr art-ile-başlayancüzdan-adresinizi-yazınız
-```
-
-
 
 ### Sistem Gereksinimleri
 
@@ -123,7 +116,7 @@ sudo systemctl daemon-reload
 sudo systemctl enable artelad
 sudo systemctl start artelad
 ```
-### Log
+### Log kontrolü için
 ```
 sudo journalctl -fu artelad -o cat
 ```
@@ -132,8 +125,13 @@ sudo journalctl -fu artelad -o cat
 
 artelad keys add cüzdan-adı
 
-### validator olusturma
-Not: 2 defa faucet alıp yapın.moniker ve cüzdan adınızı yazınız
+### Not: faucet almak için cüzdan olusturduktan sonra altaki kodla adresinizi öğrenin. Address (EIP-55) kısmındaki 0X ile başalayan adresile faucetten tokenlerinizi isteyin. 6 saatte bir token isteyebilirsiniz. 
+```
+artelad debug addr art ile başlayan cüzdan adresiniz
+
+
+### Validator olusturma
+Not: Faucetten token aldıktan sonra validatör oluşturabilirsiniz. moniker ve cüzdan adınızı yazınız
 ```
 artelad tx staking create-validator \
 --amount 950000uart \
@@ -146,7 +144,6 @@ artelad tx staking create-validator \
 --moniker "moniker-adınız" \
 --identity="" \
 --website="" \
---details="Mustafa Kemal ATATÜRK❤️" \
 --chain-id artela_11822-1 \
 --gas auto \
 --gas-adjustment 1.4 \
@@ -155,9 +152,9 @@ artelad tx staking create-validator \
 -y
 ```
 ### Delege
-Not: cüzdan-adınız kısımlarını değiştiriniz.
+Not: cüzdanadı kısımlarını değiştirin.
 ```
-artelad tx staking delegate $(artelad keys show cüzdan-adınız --bech val -a) 1.5art --from cüzdan-adınız --chain-id artela_11822-1 --gas-adjustment 1.4 --gas auto --gas-prices 0.025uart --node http://localhost:45657 -y
+artelad tx staking delegate $(artelad keys show cüzdanadı --bech val -a) 1.5art --from cüzdanadı --chain-id artela_11822-1 --gas-adjustment 1.4 --gas auto --gas-prices 0.025uart --node http://localhost:45657 -y
 ```
 
-## Başvuur formu : [TIKLA](https://t.co/EPAoUcWriG)https://t.co/EPAoUcWriG
+## BAŞVURU FORMUNU DOLDURMAYI UNUTMAYIN: [TIKLA](https://t.co/EPAoUcWriG)https://t.co/EPAoUcWriG
