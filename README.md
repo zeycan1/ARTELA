@@ -1,4 +1,4 @@
-![image](https://github.com/zeycan1/ARTELA/assets/108004368/919ef026-fa49-4c63-a4a1-310d8a1483bf)
+### ![image](https://github.com/zeycan1/ARTELA/assets/108004368/919ef026-fa49-4c63-a4a1-310d8a1483bf)
 
 
 ## Linkler:
