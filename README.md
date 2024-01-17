@@ -11,9 +11,9 @@
  * [Artela EXPLORER](https://test.explorer.ist/artela/staking)
 
 
-```
 
-### Sistem Gereksinimleri
+
+## Sistem Gereksinimleri
 
 | Bileşenler | Minimum Gereksinimler | 
 | ------------ | ------------ |
