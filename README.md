@@ -1,4 +1,5 @@
-![artela](https://github.com/molla202/Artela/assets/91562185/a7922117-442e-4bbf-b56a-1d11e09670f7)
+![image](https://github.com/zeycan1/ARTELA/assets/108004368/919ef026-fa49-4c63-a4a1-310d8a1483bf)
+
 
 ## Linkler:
  * [Topluluk kanalımız](https://t.me/corenodechat)
@@ -157,4 +158,4 @@ Not: cüzdanadı kısımlarını değiştirin.
 artelad tx staking delegate $(artelad keys show cüzdanadı --bech val -a) 1.5art --from cüzdanadı --chain-id artela_11822-1 --gas-adjustment 1.4 --gas auto --gas-prices 0.025uart --node http://localhost:45657 -y
 ```
 
-## BAŞVURU FORMUNU DOLDURMAYI UNUTMAYIN: [TIKLA](https://t.co/EPAoUcWriG)https://t.co/EPAoUcWriG
+## BAŞVURU FORMUNU DOLDURMAYI UNUTMAYIN: https://t.co/EPAoUcWriG)https://t.co/EPAoUcWriG
